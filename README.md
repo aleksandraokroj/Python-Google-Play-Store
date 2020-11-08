@@ -20,6 +20,6 @@ The project has been written using **Visual Studio Code**.
 
 You can download this tool here: https://code.visualstudio.com/Download
 
-You also need to download Anaconda. You will find it here: https://docs.anaconda.com/anaconda/install/
+You also need to download **Anaconda**. You will find it here: https://docs.anaconda.com/anaconda/install/
 
 You also need to create 4 empty folders with the names: **"UsersSearch"**, **"Statistics"**, **"Reviews"** and **"Opinions"**.
