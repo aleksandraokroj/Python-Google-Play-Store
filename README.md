@@ -1,7 +1,7 @@
 # Python-Google-Play-Store
 ## A project created in Python based on statistical data about the Google Play Store
 
-Repository created for the purpose of the final project in the subject **"Programming in Python"** at the university.
+Repository created for the purpose of the final project in the subject **"Programming in Python"** at the university. Project created by: Justyna Gapys, Aleksandra Okrój, Patryk Pawłowicz.
 
 The project is based on two files **"googleplaystore.csv"** and **"googleplaystore_user_reviews.csv"**, which contain statistical data about the application in the Google Play Store.
 You can download both files from this page: https://www.kaggle.com/lava18/google-play-store-apps
